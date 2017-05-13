@@ -1,10 +1,9 @@
-        ## Data Identifiers ##
+   ## Data Identifiers ##
         subject - id of the test subject
         activity - type of activity performed for which data was collected
 
 
-
-        ## Measurements ##
+## Measurements ##
  [1] "tBodyAccMeanX"               
  [2] "tBodyAccMeanY"               
  [3] "tBodyAccMeanZ"               
@@ -85,11 +84,10 @@
 [78] "fBodyBodyGyroJerkMagSTD"     
 [79] "fBodyBodyGyroJerkMagMeanFreq"
 
-        ## Activity Labels ##
-
-                *WALKING
-                *WALKING_UPSTAIRS
-                *WALKING_DOWNSTAIRS
-                *SITTING
-                *STANDING
-                *LAYING
+   ## Activity Labels ##
+    * WALKING
+    * WALKING_UPSTAIRS
+    * WALKING_DOWNSTAIRS
+    * SITTING
+    * STANDING
+    * LAYING
