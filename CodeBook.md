@@ -1,10 +1,11 @@
 ## Introduction ##
 The script for run_analysis.R performs the following five steps:
+
         1. All the datasets are read in
-        2. We then take only the STD and mean columns from             the whole dataset
-        3. We then merge the datasets together with the                correct labels.
-        4. Took our combinedData and converted it to                 factors
-        5. Using dcast(), we then took the mean of the               data and printed it to a new file called                  'tidy.txt'
+        2. We then take only the STD and mean columns from the whole dataset
+        3. We then merge the datasets together with the correct labels.
+        4. Took our combinedData and converted it to factors
+        5. Using dcast(), we then took the mean of the data and printed it to a new file called 'tidy.txt'
 
 ## Variables ##
         * xTrain, yTrain, xTest, yTest, subjectTrain, subjectTest contain our data.
